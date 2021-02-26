@@ -1,0 +1,1 @@
+var vpnConfig={"domain":{"domainList":["clcg.ahau.edu.cn","clcgjxs.ahau.edu.cn"],"enableDomainShare":1},"rule":{"blacklist":["127.0.0.1"],"whitelist":["*"]},"version":"1.4.7","urlMap":[],"base":{"panDomain":"webvpn.ahau.edu.cn","vpnUrl":"http://webvpn.ahau.edu.cn:8800","scheme":"http","port":"8800"},"blockAds":{"enable":true},"cookie":{"autoClean":true}};
